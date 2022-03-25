@@ -14,4 +14,5 @@ The purpose of this project is to practice:
 
 2. When the user selects the desired stop, the application switches to the controller, which displays the location of the desired stop on the map, as well as a list of the route of this stop and the arrival time of the nearest transport.
 
-![Simulator Screen Shot - iPhone 13 Pro Max - 2022-03-25 at 18 18 19](https://user-images.githubusercontent.com/49292756/160149799-60454eb5-7bf9-49bc-a6d8-4cfdc9069e12.png)
+![Simulator Screen Shot - iPhone 13 Pro Max - 2022-03-25 at 18 21 08](https://user-images.githubusercontent.com/49292756/160149961-e6368246-dea4-4557-b8ab-9fff8ea237c0.png)
+
