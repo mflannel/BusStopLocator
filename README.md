@@ -1,5 +1,5 @@
-# BusStopLocator
-The purpose of this project is to practice:
+# 🚌BusStopLocator
+## The best method of diving into:
 - Core Location
 - MapKit
 - UIKit
